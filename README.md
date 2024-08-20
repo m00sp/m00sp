@@ -6,7 +6,7 @@
 <h1 align="center">🦀🦀🦀Hi 👋, I'm Luis-TI.dev.br🦀🦀🦀</h1>
 <h3 align="center">A passionate developer from Uruguay, living in São Paulo, Brasil.</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m00sp&row=3&column=3&theme=buddhism" alt="m00sp" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m00sp&row=3&column=3&theme=juicyfresh" alt="m00sp" /></a> </p>
 
 - 🔭 I’m currently working on [m00wm](https://github.com/m00sp/m00wm)
 
@@ -40,7 +40,7 @@
 </div>
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=m00sp&theme=dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=m00sp&theme=dark&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 </div>
 
 <p align="center"><b>Visitors Count</b></p>

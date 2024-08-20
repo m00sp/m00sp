@@ -8,6 +8,22 @@
 <br>
 <br>
 
+## Hi there 👋
+
+
+🦀🦀🦀🦀🦀🦀🦀🦀
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
 <div align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=m00sp&theme=dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
@@ -20,7 +36,7 @@
 
 </div>
 
-<p align="centre"><b>Visitors Count</b></p> 
+<p align="center"><b>Visitors Count</b></p>
   
 <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fm00sp&s=40&c=c64600&bg=00000000&no=2&ff=electrolize&tb=&ta=" /></p>
 <br>
@@ -36,10 +52,6 @@
 <br>
 <br>
 
-## Hi there 👋
-
-
-🦀🦀🦀🦀🦀🦀🦀🦀
 <!--
 **m00sp/m00sp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -128,13 +140,4 @@
 <img width=100% src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/dfadbae0-104e-4deb-9719-1ed3c82542c5"/>
 -->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...

@@ -8,6 +8,12 @@
 <br>
 <br>
 
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=m00sp&theme=orange-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+
+</div>
+
 ## Hi there 👋
 
 
@@ -15,11 +21,6 @@
 <!--
 **m00sp/m00sp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carolbarbosa101&theme=violet-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
-
-</div>
 
 
 <div align="center"> 

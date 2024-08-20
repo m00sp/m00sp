@@ -43,12 +43,12 @@ Here are some ideas to get you started:
 <div align="center">
 <h3>🔻 If you contact me, click here 🔻</h3>
 <a href="mailto:ngawang.monlam@gmail.com">
-<img align="center"  height="50" width="50" src="imagens/m00gmail-icone.png">
+<img align="center"  height="25" width="25" src="imagens/m00gmail-icone.png">
 </a>
 
 
 <a  href="https://www.linkedin.com/in/luis-ricardo-martínez-díaz/" target=_blank>
-<img align="center"  height="50" width="50" src="imagens/m00linkedin-icone.png">
+<img align="center"  height="25" width="25" src="imagens/m00linkedin-icone.png">
 </a>
 </div>
 <!--

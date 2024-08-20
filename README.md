@@ -16,7 +16,7 @@
 
 <div align="center" >
    
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/m00sp?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=10&animation_delay=0.5&animation_amplitude=10&animation_frequency=0.1&animation_wave_center=10_0&format=svg&weeks=30&theme=elegant&from=2024-06-01&)
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/m00sp?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=10&animation_delay=0.5&animation_amplitude=10&animation_frequency=0.1&animation_wave_center=10_0&format=svg&weeks=20&theme=dark&from=2024-06-01&bg_color=f90)
 
 </div>
 

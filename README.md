@@ -50,12 +50,12 @@ Here are some ideas to get you started:
 
 <div align="center">
 <a href="mailto:ngawang.monlam@gmail.com">
-<img align="center"  height="80" width="80" src="imagens/m00gmail-icone.png">
+<img align="center"  height="50" width="50" src="imagens/m00gmail-icone.png">
 </a>
 
 
 <a  href="https://www.linkedin.com/in/luis-ricardo-martínez-díaz/" target=_blank>
-<img align="center"  height="80" width="80" src="imagens/m00linkedin-icone.png">
+<img align="center"  height="50" width="50" src="imagens/m00linkedin-icone.png">
 </a>
 </div>
 <!--

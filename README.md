@@ -15,7 +15,7 @@
 </div>
 
 <div align="center" >
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=m00sp)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=m00sp)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/m00sp?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=10&animation_delay=0.5&animation_amplitude=10&animation_frequency=0.1&animation_wave_center=10_0&format=svg&weeks=7&theme=dark&from=2024-06-01&bg_color=f90&)
 

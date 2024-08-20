@@ -21,15 +21,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <div align="center">
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=m00sp&theme=dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+
 </div>
 
 <div align="center">
+
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/m00sp?chart=3dbar&gap=0.6&scale=2&flatten=0&animation=wave&animation_duration=10&animation_delay=0.5&animation_amplitude=10&animation_frequency=0.1&animation_wave_center=10_0&format=svg&weeks=10&theme=yellow&dark=true)
+
 </div>
 
 <p align="center"><b>Visitors Count</b></p>
-
+  
 <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fm00sp&s=40&c=c64600&bg=00000000&no=2&ff=electrolize&tb=&ta=" /></p>
 <br>
 </div>

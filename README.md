@@ -38,17 +38,10 @@ Here are some ideas to get you started:
 <br>
 </div>
 
-<div align="center">
-<h3> If you support me, click here, give me a coffee</h3>
-<a href="https://ko-fi.com/m00sp" target="_blank">
-<img align="center" height="80" width="80" src="imagens/m00kofi-icone.png">
-</a>
-</div>
-
-<br>
 <br>
 
 <div align="center">
+<h3>🔻 If you contact me, click here 🔻</h3>
 <a href="mailto:ngawang.monlam@gmail.com">
 <img align="center"  height="50" width="50" src="imagens/m00gmail-icone.png">
 </a>
@@ -61,6 +54,13 @@ Here are some ideas to get you started:
 <!--
 **m00sp/m00sp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+<div align="center">
+<h3> If you support me, click here, give me a coffee</h3>
+<a href="https://ko-fi.com/m00sp" target="_blank">
+<img align="center" height="80" width="80" src="imagens/m00kofi-icone.png">
+</a>
+</div>
 
 
 <a href="https://instagram.com/carol_developer" target="_blank">

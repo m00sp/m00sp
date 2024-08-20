@@ -1,7 +1,7 @@
 <img width=100% bottom=50px src="imagens/github-header-image.png"/>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=de2e03&center=true&vCenter=true&random=false&width=1000&lines=Luis-TI.dev.br;Hardware+and+Software;Full+Stack+Rust+🦀🦀🦀;Software+Developer;Vila+Matilde,+São+Paulo,+Brazil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=fc4b08&center=true&vCenter=true&random=false&width=1000&lines=Luis-TI.dev.br;Hardware+and+Software;Full+Stack+Rust+🦀🦀🦀;Software+Developer;Vila+Matilde,+São+Paulo,+Brasil)](https://git.io/typing-svg)
 
 ## Hi there 👋
 

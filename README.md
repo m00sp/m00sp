@@ -22,7 +22,7 @@
 
 <p align="centre"><b>Visitors Count</b></p> 
   
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fcarolbarbosa101&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fm00sp&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p>
 <br>
 </div>
 
@@ -30,7 +30,7 @@
 <div align="center">
 <h3> If you support me, click here, give me a coffee</h3>
 <a href="https://ko-fi.com/m00sp" target="_blank">
-<img align="center" height="80" width="80" src="imagens/m00kofi-icone">
+<img align="center" height="80" width="80" src="imagens/m00kofi-icone.png">
 </a>
 </div>
 

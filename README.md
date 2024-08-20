@@ -22,11 +22,9 @@
 
 <p align="centre"><b>Visitors Count</b></p> 
   
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fm00sp&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p>
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fm00sp&s=40&c=c64600&bg=00000000&no=2&ff=electrolize&tb=&ta=" /></p>
 <br>
 </div>
-
-![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fm00sp&s=50&c=c64600&bg=000000&no=2&ff=digi&tb=Count%3A+&ta=+visitors%21)
 
 <div align="center">
 <h3> If you support me, click here, give me a coffee</h3>

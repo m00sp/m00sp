@@ -2,9 +2,6 @@
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=fc4b08&center=true&vCenter=true&random=false&width=1000&lines=Luis-TI.dev.br;Hardware+and+Software;Full+Stack+Rust+🦀;Software+Developer;Vila+Matilde,+São+Paulo,+Brasil)](https://git.io/typing-svg)
-[![en](https://img.shields.io/badge/English-EB5406)](https://github.com/m00sp/m00ltilinguas-readme-padrao/blob/main/README.md)
-[![en](https://img.shields.io/badge/Español-1c0000)](https://github.com/m00sp/m00ltilinguas-readme-padrao/blob/main/README.es.md)
-[![en](https://img.shields.io/badge/Português-380000)](https://github.com/m00sp/m00ltilinguas-readme-padrao/blob/main/README.pt.md)
 
 <h1 align="center">Hi 👋, I'm Luis-TI.dev.br🦀</h1>
 <h3 align="center">A passionate developer from Uruguay, living in São Paulo, Brasil.</h3>
@@ -14,11 +11,8 @@
 <div align="center">
 
 [![en](https://img.shields.io/badge/English-EB5406?style=for-the-badge&logoColor=white&logo=DocuSign)](https://github.com/m00sp/m00sp/blob/main/README.md)
-
 ![es](https://img.shields.io/badge/Español-380000?style=for-the-badge&logoColor=white&logo=DocuSign)](https://github.com/m00sp/m00sp/blob/main/README.es.md)
-
 [![br](https://img.shields.io/badge/Português-380000?style=for-the-badge&logoColor=white&logo=DocuSign)](https://github.com/m00sp/m00sp/blob/main/README.pt.md)
-
 
 </div>
 

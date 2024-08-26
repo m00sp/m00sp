@@ -1,10 +1,23 @@
 <img width=100% bottom=50px src="imagens/github-header-image.png"/>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=fc4b08&center=true&vCenter=true&random=false&width=1000&lines=Luis-TI.dev.br;Hardware+and+Software;Full+Stack+Rust+🦀🦀🦀;Software+Developer;Vila+Matilde,+São+Paulo,+Brasil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=fc4b08&center=true&vCenter=true&random=false&width=1000&lines=Luis-TI.dev.br;Hardware+and+Software;Full+Stack+Rust+🦀;Software+Developer;Vila+Matilde,+São+Paulo,+Brasil)](https://git.io/typing-svg)
 
-<h1 align="center">🦀🦀🦀Hi 👋, I'm Luis-TI.dev.br🦀🦀🦀</h1>
+<h1 align="center">Hi 👋, I'm Luis-TI.dev.br🦀🦀🦀</h1>
 <h3 align="center">A passionate developer from Uruguay, living in São Paulo, Brasil.</h3>
+<br>
+
+<p style="test-align: center;">🔻 Select your language here 🔻</p>
+<div style="text-align: center;">
+
+![](https://img.shields.io/badge/English-EB5406?style=for-the-badge&logoColor=white&logo=DocuSign)(https://github.com/m00sp/m00sp/blob/main/README.md)
+
+![](https://img.shields.io/badge/Español-380000?style=for-the-badge&logoColor=white&logo=DocuSign)(https://github.com/m00sp/m00sp/blob/main/README.es.md)
+
+![](https://img.shields.io/badge/Português-380000?style=for-the-badge&logoColor=white&logo=DocuSign)(https://github.com/m00sp/m00sp/blob/main/README.pt.md)
+
+
+</div>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m00sp&row=3&column=3&theme=juicyfresh" alt="m00sp" /></a> </p>
 

@@ -10,7 +10,7 @@
 <p align="center">🔻 Select your language 🔻</p>
 <div align="center">
 
-[![en](https://img.shields.io/badge/English-EB5406?style=for-the-badge&logoColor=white&logo=DocuSign)](https://github.com/m00sp/m00sp/blob/main/README.md)
+[![en](https://img.shields.io/badge/English-EB5406?style=for-the-badge&logoColor=white&logo=DocuSign)](https://github.com/m00sp/m00sp/blob/main/README.md) 
 [![es](https://img.shields.io/badge/Español-380000?style=for-the-badge&logoColor=white&logo=DocuSign)](https://github.com/m00sp/m00sp/blob/main/README.es.md)
 [![br](https://img.shields.io/badge/Português-380000?style=for-the-badge&logoColor=white&logo=DocuSign)](https://github.com/m00sp/m00sp/blob/main/README.pt.md)
 
@@ -21,16 +21,11 @@
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=m00sp&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=m00sp&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=m00sp&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=m00sp&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=m00sp&icon=6&color=7)](https://visitcount.itsvg.in)
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m00sp&row=3&column=3&theme=juicyfresh" alt="m00sp" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m00sp&row=3&column=3&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4" alt="m00sp" /></a> </p>
 
 - 🔭 I’m currently working on [m00wm](https://github.com/m00sp/m00wm)
 
@@ -60,10 +55,15 @@
 <div align="center">
 
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/m00sp?chart=3dbar&gap=0.6&scale=2&flatten=0&animation=wave&animation_duration=10&animation_delay=0.5&animation_amplitude=10&animation_frequency=0.1&animation_wave_center=10_0&format=svg&weeks=10&theme=yellow&dark=true)
+  
+
 
 </div>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=m00sp&theme=dark&hide_border=true&card_width=900)<br/>
+
 <div align="center">
-  
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=m00sp&theme=dark&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 </div>
 

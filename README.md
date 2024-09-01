@@ -16,15 +16,15 @@
 
 </div>
 <br>
-
+<div align="center">
 # 💻Tech Stack
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=m00sp&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
 ## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=m00sp&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4)
-
+![](https://github-trophies.vercel.app/?username=m00sp&row=3&column=4&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
+</div>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m00sp&row=3&column=3&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4" alt="m00sp" /></a> </p>
 
 - 🔭 I’m currently working on [m00wm](https://github.com/m00sp/m00wm)
@@ -54,18 +54,13 @@
 
 <div align="center">
 
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/m00sp?chart=3dbar&gap=0.6&scale=2&flatten=0&animation=wave&animation_duration=10&animation_delay=0.5&animation_amplitude=10&animation_frequency=0.1&animation_wave_center=10_0&format=svg&weeks=10&theme=yellow&dark=true)
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/m00sp?chart=3dbar&gap=0.6&scale=2&flatten=0&animation=wave&animation_duration=10&animation_delay=0.5&animation_amplitude=10&animation_frequency=0.1&animation_wave_center=10_0&format=svg&weeks=15&theme=yellow&dark=true)
   
 
 
 </div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=m00sp&theme=dark&hide_border=true&card_width=900)<br/>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=m00sp&theme=dark&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
-</div>
+![](https://github-readme-streak-stats.herokuapp.com/?user=m00sp&theme=dark&hide_border=false&card_width=900)<br/>
 
 <p align="center"><b>Visitors Count</b></p>
   

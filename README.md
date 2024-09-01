@@ -17,6 +17,19 @@
 </div>
 <br>
 
+# 💻Tech Stack
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=m00sp&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=m00sp&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=m00sp&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=m00sp&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=m00sp&icon=6&color=7)](https://visitcount.itsvg.in)
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m00sp&row=3&column=3&theme=juicyfresh" alt="m00sp" /></a> </p>
 
 - 🔭 I’m currently working on [m00wm](https://github.com/m00sp/m00wm)

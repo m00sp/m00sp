@@ -17,7 +17,7 @@
 <div align="center">
 
 ## GitHub Trophies 🏆
-![](https://github-trophies.vercel.app/?username=m00sp&row=3&column=4&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-trophies.vercel.app/?username=m00sp&row=3&column=4&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A)
 </div>
 
 <br>

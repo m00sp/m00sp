@@ -55,7 +55,7 @@
 </a>
 
 
-<a  href="https://www.linkedin.com/in/luis-ricardo-martínez-díaz/" target=_blank>
+<a  href="https://www.linkedin.com/in/luis-ti-dev-br/" target=_blank>
 <img align="center"  height="30" width="30" src="imagens/m00linkedin-icone.png">
 </a>
 </div>

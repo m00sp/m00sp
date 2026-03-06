@@ -18,7 +18,10 @@
 </div>
 <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m00sp&row=3&column=3&theme=juicyfresh&locale=pt-BR" alt="m00sp" /></a> </p>
+## GitHub Trophies 🏆
+![](https://github-trophies.vercel.app/?username=m00sp&row=3&column=4&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A)
+</div>
+
 
 - 🔭 Atualmente estou trabalhando em [m00wm](https://github.com/m00sp/m00wm)
 

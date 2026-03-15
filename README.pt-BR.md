@@ -1,27 +1,27 @@
-[![en](https://img.shields.io/badge/English-380000style=for-the-badge&logoColor=white&logo=DocuSign)](https://github.com/m00sp/m00sp/blob/main/README.md) [![es](https://img.shields.io/badge/Español-EB5406?style=for-the-badge&logoColor=white&logo=DocuSign)](https://github.com/m00sp/m00sp/blob/main/README.es.md) [![br](https://img.shields.io/badge/Português-380000?style=for-the-badge&logoColor=white&logo=DocuSign)](https://github.com/m00sp/m00sp/blob/main/README.pt-BR.md)
+[![en](https://img.shields.io/badge/English-380000style=for-the-badge&logoColor=white&logo=DocuSign)](https://github.com/m00sp/m00sp/blob/main/README.md) [![es](https://img.shields.io/badge/Español-3800000?style=for-the-badge&logoColor=white&logo=DocuSign)](https://github.com/m00sp/m00sp/blob/main/README.es.md) [![br](https://img.shields.io/badge/Português-EB5406?style=for-the-badge&logoColor=white&logo=DocuSign)](https://github.com/m00sp/m00sp/blob/main/README.pt-BR.md)
 
 <img width="100%" src="imagens/github-header-image.png" alt="GitHub Header"/>
 
-# Luis Diaz – Desarrollador de Software & Consultor de TI
+# Luis Diaz – Desenvolvedor de Software & Consultor de TI
 
-**Desarrollador Full Stack** | **Especialista en Sistemas y Redes** | **Entusiasta del Open Source**
+**Desenvolvedor Full Stack** | **Especialista em Sistemas e Redes** | **Entusiasta de Open Source**
 
-Apasionado por construir soluciones de software robustas y proporcionar excelencia técnica. Ubicado en São Paulo, Brasil 🇧🇷, especializado en desarrollo web moderno, administración de sistemas y tecnologías nativas en la nube.
+Apaixonado por construir soluções de software robustas e fornecer excelência técnica. Baseado em São Paulo, Brasil 🇧🇷, especializado em desenvolvimento web moderno, administração de sistemas e tecnologias nativas em nuvem.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=35&duration=4000&pause=1000&color=fc4b08&center=false&vCenter=true&random=false&lines=Full+Stack+Rust+%F0%9F%A6%80;Cloud+Native+Solutions;Modern+Web+Technologies)](https://git.io/typing-svg)
 
 ---
 
-## 🎯 Acerca de Mí
+## 🎯 Sobre Mim
 
-Soy un desarrollador de software con experiencia en la construcción de aplicaciones de calidad de producción en toda la pila. Mis áreas de enfoque incluyen:
+Sou um desenvolvedor de software com experiência em construir aplicações de qualidade produção em toda a pilha. Minhas áreas de foco incluem:
 
-- **Desarrollo Backend**: Rust, TypeScript/Node.js, programación de sistemas
-- **Frontend**: Marcos reactivos modernos (Next.js, React) con TypeScript
-- **DevOps e Infraestructura**: Docker, Kubernetes, administración de Linux
-- **Tecnologías Web**: HTML5, CSS3, Tailwind CSS, Sass
+- **Desenvolvimento Backend**: Rust, TypeScript/Node.js, programação de sistemas
+- **Frontend**: Frameworks reativos modernos (Next.js, React) com TypeScript
+- **DevOps & Infraestrutura**: Docker, Kubernetes, administração Linux
+- **Tecnologias Web**: HTML5, CSS3, Tailwind CSS, Sass
 
-Creo en escribir código limpio y mantenible, y sigo las mejores prácticas para diseño de sistemas y arquitectura de software.
+Acredito em escrever código limpo e manutenível e sigo as melhores práticas para design de sistemas e arquitetura de software.
 
 ---
 
@@ -66,19 +66,19 @@ Creo en escribir código limpio y mantenible, y sigo las mejores prácticas para
   </a>
 </p>
 
-**Lenguajes**: Rust, TypeScript, JavaScript, Bash, HTML5, CSS3/SASS
+**Linguagens**: Rust, TypeScript, JavaScript, Bash, HTML5, CSS3/SASS
 
-**Plataformas y Herramientas**: Linux, Docker, Git, Alpine Linux, GTK
+**Plataformas e Ferramentas**: Linux, Docker, Git, Alpine Linux, GTK
 
 ---
 
-## 🏆 Logros
+## 🏆 Conquistas
 
 ![GitHub Trophies](https://github-trophies.vercel.app/?username=m00sp&row=2&column=4&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A)
 
 ---
 
-## 📊 Actividad y Estadísticas
+## 📊 Atividade e Estatísticas
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=m00sp&theme=dark&hide_border=false&card_width=900)
 
@@ -88,9 +88,9 @@ Creo en escribir código limpio y mantenible, y sigo las mejores prácticas para
 
 ---
 
-## 🔗 Conecta Conmigo
+## 🔗 Conecte-se Comigo
 
-Siempre estoy abierto a conectar con desarrolladores, colaboradores e interesados en discutir tecnología, arquitectura y mejores prácticas de desarrollo de software.
+Estou sempre aberto para conectar com desenvolvedores, colaboradores e interessados em discutir tecnologia, arquitetura e melhores práticas de desenvolvimento de software.
 
 <p align="center">
   <a href="mailto:info@luis-ti.dev.br" target="_blank">
@@ -108,28 +108,28 @@ Siempre estoy abierto a conectar con desarrolladores, colaboradores e interesado
 
 **Email**: [info@luis-ti.dev.br](mailto:info@luis-ti.dev.br)
 
-**Sitio Web**: [luis-ti.dev.br](https://luis-ti.dev.br) – Consultoría técnica, desarrollo de software y soluciones de TI
+**Website**: [luis-ti.dev.br](https://luis-ti.dev.br) – Consultoria técnica, desenvolvimento de software e soluções de TI
 
 **LinkedIn**: [luis-ti-dev-br](https://www.linkedin.com/in/luis-ti-dev-br/)
 
 ---
 
-## 📍 Ubicación y Servicios
+## 📍 Localização e Serviços
 
-Con sede en **São Paulo, Brasil** con disponibilidad remota. Los servicios incluyen:
+Com sede em **São Paulo, Brasil** com disponibilidade remota. Os serviços incluem:
 
-- **Desarrollo de Software**: Aplicaciones web full-stack, aplicaciones móviles, aplicaciones de escritorio
-- **Consultoría de TI**: Arquitectura de sistemas, soluciones DevOps, diseño de infraestructura
-- **Servicios Web**: Sitios web estáticos, carteras, aplicaciones empresariales
+- **Desenvolvimento de Software**: Aplicações web full-stack, aplicativos móveis, aplicações desktop
+- **Consultoria de TI**: Arquitetura de sistemas, soluções DevOps, design de infraestrutura
+- **Serviços Web**: Sites estáticos, portfólios, aplicações empresariais
 
-Fluido en portugués, inglés y español.
+Fluente em português, inglês e espanhol.
 
 ---
 
 <div align="center">
 
-**¿Interesado en colaborar?** Construyamos algo increíble juntos.
+**Interessado em colaborar?** Vamos construir algo incrível juntos.
 
-[Envíame un Email](mailto:info@luis-ti.dev.br) · [Visita Mi Sitio Web](https://luis-ti.dev.br) · [Conecta en LinkedIn](https://www.linkedin.com/in/luis-ti-dev-br/)
+[Me Envie um Email](mailto:info@luis-ti.dev.br) · [Visite Meu Website](https://luis-ti.dev.br) · [Conecte no LinkedIn](https://www.linkedin.com/in/luis-ti-dev-br/)
 
 </div>

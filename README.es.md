@@ -1,5 +1,7 @@
 <img width="100%" src="imagens/github-header-image.png" alt="GitHub Header"/>
 
+[![en](https://img.shields.io/badge/English-380000style=for-the-badge&logoColor=white&logo=DocuSign)](https://github.com/m00sp/m00sp/blob/main/README.md) [![es](https://img.shields.io/badge/Español-EB5406?style=for-the-badge&logoColor=white&logo=DocuSign)](https://github.com/m00sp/m00sp/blob/main/README.es.md) [![br](https://img.shields.io/badge/Português-380000?style=for-the-badge&logoColor=white&logo=DocuSign)](https://github.com/m00sp/m00sp/blob/main/README.pt-BR.md)
+
 # Luis Diaz – Desarrollador de Software & Consultor de TI
 
 **Desarrollador Full Stack** | **Especialista en Sistemas y Redes** | **Entusiasta del Open Source**
